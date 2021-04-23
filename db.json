@@ -1,14 +1,38 @@
 [
   {
     "id": 1,
-    "title": "Post 1"
+    "question": "Which Month has 28 days"
+    "option1": "January"
+    "option2": "Febuary"
+    "option3": "June"
+    "option4": "All of Them"
   },
-  {
-    "id": 2,
-    "title": "Post 2"
+  { "id": 2,
+    "question": "What ancient invention lets you look right through a wall?"
+    "option1": "Window"
+    "option2": "Glass"
+    "option3": "Computer"
+    "option4": "X-Rays"
   },
-  {
-    "id": 3,
-    "title": "Post 3"
+  { "id": 3,
+    "question": "What begins with T ends with T and has T in it?"
+    "option1": "Toilet"
+    "option2": "Teapot"
+    "option3": "Tablet"
+    "option4": "Touristt"
+  },
+  { "id": 4,
+    "question": "The more you take , the more you leave behind. What am I?"
+    "option1": "Money"
+    "option2": "Knowledge"
+    "option3": "Footsteps"
+    "option4": "Food"
+  },
+  { "id": 5,
+    "question": "David father has three sons: Andy, Bandy and ----?"
+    "option1": "candy"
+    "option2": "mandy"
+    "option3": "dawason"
+    "option4": "david"
   }
 ]
